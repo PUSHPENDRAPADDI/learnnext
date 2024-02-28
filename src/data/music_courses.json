@@ -1,0 +1,76 @@
+{
+  "courses": [
+    {
+      "courseId": 1,
+      "courseName": "Introduction to Music Theory",
+      "instructor": "John Smith",
+      "description": "Learn the fundamentals of music theory including notes, scales, chords, and basic harmony.",
+      "duration": "8 weeks",
+      "level": "Beginner",
+      "price": 99.99,
+      "slug": "Music Theory-fundamental",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1573871666457-7c7329118cf9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bXVzaWNhbCUyMGluc3RydW1lbnR8ZW58MHwwfDB8fHww",
+      "topics": [
+        "Notes",
+        "Scales",
+        "Chords",
+        "Harmony"
+      ]
+    },
+    {
+      "courseId": 2,
+      "courseName": "Guitar Basics",
+      "instructor": "Emma Johnson",
+      "description": "Get started with playing the guitar. Learn basic chords, strumming patterns, and simple songs.",
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "price": 199.99,
+      "slug": "guitar-fundamental",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1681540675723-f9f1992dad92?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG11c2ljYWwlMjBpbnN0cnVtZW50fGVufDB8MHwwfHx8MA%3D%3D",
+      "topics": [
+        "Guitar Anatomy",
+        "Basic Chords",
+        "Strumming",
+        "Simple Songs"
+      ]
+    },
+    {
+      "courseId": 3,
+      "courseName": "Piano Fundamentals",
+      "instructor": "Michael Brown",
+      "description": "Master the basics of piano playing. Cover piano posture, hand positioning, and basic exercises.",
+      "duration": "10 weeks",
+      "level": "Beginner",
+      "price": 99.99,
+      "slug": "Piano-fundamental",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1577297568245-d4e5bef64f3b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG11c2ljYWwlMjBpbnN0cnVtZW50fGVufDB8MHwwfHx8MA%3D%3D",
+      "topics": [
+        "Piano Posture",
+        "Hand Positioning",
+        "Basic Exercises",
+        "Simple Melodies"
+      ]
+    },
+    {
+      "courseId": 4,
+      "courseName": "Advanced Music Production",
+      "instructor": "Sarah Davis",
+      "description": "Take your music production skills to the next level. Learn about advanced techniques in mixing, mastering, and sound design.",
+      "duration": "12 weeks",
+      "level": "Advanced",
+      "price": 99.99,
+      "slug": "dvanced-fundamental",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1571327073757-71d13c24de30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG11c2ljYWwlMjBpbnN0cnVtZW50fGVufDB8MHwwfHx8MA%3D%3D",
+      "topics": [
+        "Mixing Techniques",
+        "Mastering",
+        "Sound Design",
+        "Advanced Tools"
+      ]
+    }
+  ]
+}
